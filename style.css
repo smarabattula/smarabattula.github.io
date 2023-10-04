@@ -7,9 +7,12 @@ font-family: 'Libre Franklin', sans-serif;
 
 div
 {
+ text-align: center;
  padding: 5px;
 }
 
-h1 footer{
-    background-color: rgb(78, 143, 200);
+#name{
+    background-color: rgb(14, 133, 237);
+    text-align: center;
 }
+
