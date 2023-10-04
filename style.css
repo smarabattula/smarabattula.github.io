@@ -1,0 +1,15 @@
+html
+{
+    font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Libre Franklin', sans-serif;
+}
+
+div
+{
+ padding: 5px;
+}
+
+h1 footer{
+    background-color: rgb(78, 143, 200);
+}
